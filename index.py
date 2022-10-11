@@ -1,9 +1,12 @@
 print ("HELLO WORLD!")
+<<<<<<< HEAD
 
 <<<<<<< Updated upstream
 for i in range(5):
     print(i)
     
 =======
-print i 
->>>>>>> Stashed changes
+for i in range(5):
+    print(i)
+
+
